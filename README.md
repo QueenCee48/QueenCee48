@@ -13,7 +13,7 @@
 
 My name is Ciera and I am pursuing a BS in Info Tech with a concentration in Digital Media. 
 
-I have been learning Java in my coursework and have briefly touched on Python. Outside of that, I am a digital artist and enjoy playing video games.
+I have been learning Java, HTML, and CSS in my coursework and have briefly touched on Python. Outside of that, I am a digital artist and enjoy playing video games.
   
 </details>
 
